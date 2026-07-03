@@ -198,7 +198,7 @@ Confirma que las SAs de Fase 2 están activas y el tráfico fluye en ambas direc
 
 ## Video demostrativo
 
-[https://youtu.be/dk0Ibz2eTqI](https://youtu.be/dk0Ibz2eTqI)
+**Link:** [https://youtu.be/dk0Ibz2eTqI](https://youtu.be/dk0Ibz2eTqI)
 
 ---
 
